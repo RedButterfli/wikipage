@@ -4,3 +4,6 @@
 .rightfloat{
   float: right;
 }
+.lightpurple{
+  background-color: rgba(226, 153, 255, 0.15);
+}
